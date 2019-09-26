@@ -129,9 +129,7 @@ def adding_to_dennis
      }
 
 programmer_hash[:dennis_ritchie][:languages] << "Assembly"
-# k []
-# k = programmer_hash[:dennis_ritchie][:languages]
-# k[0]
+
 programmer_hash
 
 
